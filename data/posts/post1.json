@@ -1,0 +1,21 @@
+{
+  "id": "post1",
+
+  "title": "نماز کی اہمیت",
+
+  "titleImage":
+  "https://raw.githubusercontent.com/USERNAME/REPO/main/images/titles/title1.jpg",
+
+  "content":
+  "یہ میری مکمل تحریر ہے۔ یہاں آپ جتنا چاہیں لکھ سکتے ہیں۔ سارے حوالے اسی content کے اندر لکھیں۔",
+
+  "scanPages": [
+
+    "https://raw.githubusercontent.com/USERNAME/REPO/main/images/scans/scan1.jpg",
+
+    "https://raw.githubusercontent.com/USERNAME/REPO/main/images/scans/scan2.jpg",
+
+    "https://raw.githubusercontent.com/USERNAME/REPO/main/images/scans/scan3.jpg"
+
+  ]
+}
